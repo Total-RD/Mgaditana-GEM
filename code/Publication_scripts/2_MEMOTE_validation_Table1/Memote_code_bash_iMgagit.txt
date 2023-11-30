@@ -1,0 +1,20 @@
+
+
+Bash:
+
+sed -i.bu 's/M_atp_c/MNXM3/g' iMgadit23_forMemote.xml
+sed -i.bu 's/M_utp_c/MNXM121/g' iMgadit23_forMemote.xml
+sed -i.bu 's/M_ctp_c/MNXM63/g' iMgadit23_forMemote.xml
+sed -i.bu 's/M_gtp_c/MNXM51/g' iMgadit23_forMemote.xml
+sed -i.bu 's/M_nadh_c/MNXM10/g' iMgadit23_forMemote.xml
+sed -i.bu 's/M_nadph_c/MNXM6/g' iMgadit23_forMemote.xml
+sed -i.bu 's/M_fadh2_c/MNXM38/g' iMgadit23_forMemote.xml
+sed -i.bu 's/M_accoa_c/MNXM21/g' iMgadit23_forMemote.xml
+sed -i.bu 's/M_glu__L_c/MNXM89557/g' iMgadit23_forMemote.xml
+
+
+Memote:
+
+set GIT_PYTHON_REFRESH=quiet
+memote report snapshot --filename "RES_MEMOTE_iMgadit23.html" iMgadit23_forMemote.xml
+

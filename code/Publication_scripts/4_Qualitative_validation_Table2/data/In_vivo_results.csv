@@ -1,0 +1,28 @@
+Condition_ID;In_vivo_growth_TF;Media_condition;in_vivo;Loira_model;Gene_KO;Loira_TFPN;Reference_Loira;Nannochloropsis_species;Reference;Medium
+MC;True;;;;;;;M. gaditana;This study;ESAW
+Fang_Mixo_glc;True;Glucose (mixotrophic);+;+;;TP;[93];sp;Fang et al., 2004;F/2
+Fang_Hetero_glc;True;Glucose (heterotrophic);+;+;;TP;[93];sp;Fang et al., 2004;F/2
+Fang_Hetero_etoh;True;Ethanol (heterotrophic);+;+;;TP;[93];sp;Fang et al., 2004;F/2
+Fang_Mixo_etoh;True;Ethanol (mixotrophic);+;+;;TP;[93];sp;Fang et al., 2004;F/2
+Kilian_noN;;;;;;;;;;
+Kilian_no2;True;Nitrite;+;+;;TP;[96];sp;Kilian et al., 2011;
+Kilian_no3;True;Nitrate;+;+;;TP;[97];This work;Kilian et al., 2011;F2N
+Kilian_nh4;True;Ammonium;+;+;;TP;[98];This work;Kilian et al., 2011;
+Loira_urea;True;Urea levels;+;+;;TP;[99];N. salina;"Loira et al;, 2017";F/2
+Gim_glucose;True;;+;/;/;/;/;N. oculata;Gim et al., 2016;
+Gim_xylose;True;;+;/;/;/;/;N. oculata;Gim et al., 2016;
+Gim_rhamnose;True;;+;/;/;/;/;N. oculata;Gim et al., 2016;
+Gim_fructose;True;;+;/;/;/;/;N. oculata;Gim et al., 2016;
+Gim_sucrose;True;;+;/;/;/;/;N. oculata;Gim et al., 2016;
+Gim_galactose;True;;+;/;/;/;/;N. oculata;Gim et al., 2016;
+Kilian_nh4_KO_Naga_100699g1;True;Ammonium;+;+;"Naga_100699g1	 (Nitrate reductase)";TP;[96];sp;Kilian et al., 2011;F2N
+Kilian_no2_KO_Naga_100699g1;True;Nitrite;+;+;"Naga_100699g1	 (Nitrate reductase)";TP;[96];sp;Kilian et al., 2011;F2N
+Kilian_no3_KO_Naga_100699g1;False;Nitrate;-;-;"Naga_100699g1	 (Nitrate reductase)";TN;[96];sp;Kilian et al., 2011;F2N
+Kilian_nh4_KO_Naga_100852g1;True;Ammonium;+;+;"Naga_100852g1	
+(Nitrite reductase)";TP;[96];sp;Kilian et al., 2011;F2N
+Kilian_no2_KO_Naga_100852g1;False;Nitrite;-;-;"Naga_100852g1	
+(Nitrite reductase)";TN;[96];sp;Kilian et al., 2011;F2N
+Kilian_no3_KO_Naga_100852g1;False;Nitrate;-;-;"Naga_100852g1	
+(Nitrite reductase)";TN;[96];sp;Kilian et al., 2011;F2N
+MC_KO_Naga_100014g59;False;MC;;;Naga_100014g59 (ACS4);/;/;M. gaditana;This study;ESAW
+MC_KO_Naga_100568g3;True;MC;;;Naga_100568g3 (AOX);/;/;M. gaditana;This study;ESAW
