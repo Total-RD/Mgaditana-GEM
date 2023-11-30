@@ -17,7 +17,7 @@ This repository contains the genome-scale metabolic model (GEM) of _Microchlorop
 **Genome ID:** [insdc.gca:GCA_000569095.1](https://identifiers.org/insdc.gca/GCA_000569095.1)  
 **Metabolic system:** general metabolism  
 **Strain:** B-31  
-*** Biomass Objective Functions:** iMgadit23 contains two independent BOFs, representing respectively biomass composition of WT526 and [MgACSBG#31](https://academic.oup.com/plphys/article/185/3/815/6094630?login=false) strains  
+**Biomass Objective Functions:** iMgadit23 contains two independent BOFs, representing respectively biomass composition of WT526 and [MgACSBG#31](https://academic.oup.com/plphys/article/185/3/815/6094630?login=false) strains  
 **Condition:** photo-autotrophy, light limited  
 
 ### Model Overview

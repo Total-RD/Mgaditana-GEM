@@ -1,4 +1,4 @@
-# Mgaditana-GEM model
+# Mgaditana-GEM: model
 
 ### Model
 The model is available as .xml, .xlsx, .json, and .mat.
