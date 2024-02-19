@@ -11,5 +11,6 @@ code
 	├── 2_MEMOTE_validation_Table1
 	├── 3_Quantitative_validation_Fig4
 	├── 4_Qualitative_validation_Table2
-	└── 5_ACSBG_Fig5_Table3
+	├── 5_ACSBG_Fig5_Table3
+	└── 6_Photosynthesis_Supp_Fig
 ```
